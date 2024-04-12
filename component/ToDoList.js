@@ -5,7 +5,6 @@ import {
   TextInput,
   StyleSheet,
   FlatList,
-  Image,
   TouchableOpacity,
   SafeAreaView,
 } from "react-native";
